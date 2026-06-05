@@ -1,0 +1,6 @@
+{
+  "banned": [
+    {"id": 1, "reason": "Test"},
+    {"id": 9, "reason": "Test"}
+  ]
+}
