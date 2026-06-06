@@ -1,6 +1,6 @@
 {
   "banned": [
-    {"id": 3, "reason": "Test", "duration": "3 hours"},
+    {"id": 3553132432, "reason": "Test", "duration": "3 hours"},
     {"id": 9, "reason": "Test", "duration": "3 hours"}
   ]
 }
