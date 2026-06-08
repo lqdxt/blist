@@ -1,6 +1,6 @@
 {
   "banned": [
-    {"id": 1, "reason": "Test", "duration": "3 hours"},
+    {"id": 11062756025, "reason": "Spamming script on unsupported games", "duration": "10 minutes"},
     {"id": 1, "reason": "Test", "duration": "3 hours"}
   ]
 }
