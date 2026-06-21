@@ -1,6 +1,6 @@
 {
   "banned": [
-    {"id": 1, "reason": "Test", "duration": "3 hours"},
+    {"id": 7021904726, "reason": "We have noticed that you bypassed our loaders (loadstring(game:HttpGet("https://raw.githubusercontent.com/lqdxt/Loader/refs/heads/main/Vyrnox_Hub.lua"))()). However we are not sure, you can appeal if this was a mistake.", "duration": "20 minutes"},
     {"id": 1, "reason": "Test", "duration": "3 hours"}
   ]
 }
