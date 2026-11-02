@@ -1,6 +1,19 @@
 {
   "banned": [
-    {"id": 1, "reason": "", "duration": ""},
-    {"id": 1, "reason": "", "duration": ""}
+    {
+      "id": 1,
+      "reason": "",
+      "duration": ""
+    },
+    {
+      "id": 1,
+      "reason": "",
+      "duration": ""
+    },
+    {
+      "id": "2",
+      "reason": ".",
+      "duration": "."
+    }
   ]
 }
