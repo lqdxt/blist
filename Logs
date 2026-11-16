@@ -1,3 +1,9 @@
 {
-  "banned": []
+  "banned": [
+    {
+      "id": "1",
+      "reason": "idk",
+      "duration": "1 hour"
+    }
+  ]
 }
