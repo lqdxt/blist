@@ -1,0 +1,8 @@
+{
+ "name": "vyrnox-hub",
+ "version": "1.0.0",
+ "main": "moderation.js",
+ "dependencies": {
+  "discord.js": "^14.14.1"
+ }
+}
